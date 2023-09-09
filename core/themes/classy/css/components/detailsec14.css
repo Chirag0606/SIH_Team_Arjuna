@@ -1,0 +1,14 @@
+details {
+  border: 1px solid #ccc;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+details>.details-wrapper {
+  padding: 0.5em 1.5em;
+}
+
+summary {
+  cursor: pointer;
+  padding: 0.2em 0.5em;
+}
