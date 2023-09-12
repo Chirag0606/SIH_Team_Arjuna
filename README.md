@@ -1,7 +1,7 @@
 # SIH_Team_Arjuna
 CoalMaitreyi is a chatbot designed to answer text-based queries related to various laws, rules and regulations applicable to the mining industry. It helps users understand and navigate the complex legal framework surrounding mining, specifically focusing on coal. Whether you're a miner, business owner or just curious, CoalMaitreyi helps simplify and provide accurate information on legal matters related to mining.
 
-![ss](https://drive.google.com/file/d/1bsQPDTmwTGTzOGwsdT2p7UcJO1B8TATI/view?usp=sharing)
+![ss](https://drive.google.com/file/d/1O4YZ_hwax__jUwVWn1OoznyzmoyWsbBS/view?usp=sharing)
 
 ## Table of Contents
 * Features
