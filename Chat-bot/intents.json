@@ -1,0 +1,160 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hello",
+        "Good day",
+        "Nameste"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hi there, what can I do for you?"
+        
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you"],
+      "responses": ["Happy to help!"]
+    },
+    {
+      "tag": "per_coal_energy",
+      "patterns": [
+        "What percentage of India's energy needs does coal account for?",
+        "Percentage of India's energy needs from coal",
+        "India's energy needs from coal",
+        "energy needs fulfilled by coal"
+      ],
+      "responses": [
+        "55% of India's energy needs"
+      ]
+    },
+    {
+      "tag": "total_coal_production",
+      "patterns": [
+        "total coal production?",
+        "What was the total coal production in India during the year 2022-23?",
+        "Coal production in India during the year 2022-23,?"
+      ],
+      "responses": [
+        " 893.19 million tonnes"
+      ]
+    },
+    {
+      "tag": "Evolution",
+      "patterns": [
+        "Indian coal sector's domestic coal production evolved from 1975 to 2020-21",
+        "Evolution from 1975 to 2020-21?"
+      ],
+      "responses": [
+        "The Indian coal sector has increased domestic coal production from around 90 million tonnes (MT) in 1975 to 778 MT in 2020-21."
+      ]
+    },
+    {
+      "tag": "sustainable",
+      "patterns": [
+        "sustainable development initiatives?"
+      ],
+      "responses": [
+        " Indian coal companies have focused on sustainable initiatives, including ecological reclamation of mined-out land, plantation activities, and the restoration of flora and fauna to minimize the environmental impact of mining." 
+      ]
+    },
+    {
+      "tag": "Vriksharopan",
+      "patterns": [
+        "Vriksharopan Abhiyan-2021?",
+        "What is the purpose of the Vriksharopan Abhiyan-2021, and how is it connected to the 'Azadi Ka Amrit Mahotsav' celebration ",
+        "purpose of the Vriksharopan Abhiyan-2021",
+        "how is Vriksharopan Abhiyan connected to the 'Azadi Ka Amrit Mahotsav' celebration"
+
+      ],
+      "responses": [
+        "Vriksharopan Abhiyan-2021 is aimed at enhancing green cover in and around mining areas. It is also one of the thrust areas of the 'Azadi Ka Amrit Mahotsav' celebration, marking 75 years of Indian independence.        " 
+      ]
+    },
+    {
+      "tag": "organizations",
+      "patterns": [
+        "Which organizations are responsible for significant coal production in India, and how have their production levels changed recently?"
+      ],
+      "responses": [
+        " Coal India Limited (CIL) and its subsidiaries accounted for 703.20 million tonnes of coal production during 2022-23, with a positive growth of 12.94%. Singareni Collieries Company Limited (SCCL) also contributed with a production of 67.14 million tonnes during the same period." 
+      ]
+    },
+    {
+      "tag": "Eco-Tourism",
+      "patterns": [
+        "What is Eco-Tourism in mining areas?",
+        "Eco-Tourism in mining areas?",
+        "Eco-Tourism in mining areas?"
+      ],
+      "responses": [
+        "Mining areas, after exhaustion of coal reserves, offer good potential for promoting tourism by developing eco-parks, sites for water sports, underground visits, golf grounds, avenues for recreation, adventure, bird watching etc. Over the years, Coal/Lignite PSUs have developed more than 30 eco-parks by undertaking sustainable mine closure practices. These mining sites are now stable, environmentally sustainable and present a very beautiful site aesthetically" 
+      ]
+    },
+    {
+      "tag": "coal mine",
+      "patterns": [
+        "Which is the first coal mine in India?",
+        "first coal mine in India?",
+        "first coal mine"
+      ],
+      "responses": [
+        "Raniganj was the very first coalfield in India where coal mining started during the East India Company i.e. in the year 1774." 
+      ]
+    },
+    {
+      "tag": "MMDR",
+      "patterns": [
+        "How does the MMDR Act address environmental concerns in mining operations?",
+        "MMDR Act",
+        "How does the MMDR Act address environmental concerns"
+      ],
+      "responses": [
+        "The MMDR Act addresses environmental concerns by requiring environmental impact assessments, reclamation and rehabilitation of mining areas, and adherence to environmental regulations." 
+      ]
+    },
+    {
+      "tag": "Coal Blocks",
+      "patterns": [
+        "What are the Coal Blocks Allocation Rules, 2017?  ",
+        "Coal Blocks Allocation Rules",
+        "Coal Blocks Allocation"
+
+      ],
+      "responses": [
+        "These rules provide a framework for how coal blocks are allocated for mining. The exact details would be in the full text of the rules.        " 
+      ]
+    },
+    {
+      "tag": "Underground Coal Gasification",
+      "patterns": [
+        "What is Underground Coal Gasification (UCG)? ",
+        "Underground Coal Gasification",
+        "What is UCG? "
+      ],
+      "responses": [
+        "Underground coal gasification (UCG) is an industrial process which converts coal into product gas. UCG is an in-situ gasification process, carried out in non-mined coal seams using injection of oxidants and steam. The product gas is brought to the surface through production wells drilled from the surface." 
+      ]
+    },
+    {
+      "tag": "SYN",
+      "patterns": [
+        "What is SYN Gas?",
+        "SYN Gas?"
+      ],
+      "responses": [
+        " SYN Gas is a low heat value gas (1000-1500Kcal/kg) as compared to Natural Gas which has a heat value more than (8000-10000 Kcal/Kg). It's the gas produced as a result of Underground Coal Gasification" 
+      ]
+    }
+  ]
+}
